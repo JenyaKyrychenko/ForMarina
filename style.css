@@ -35,7 +35,6 @@
   }
 
   .container {
-    display: none;
     max-width: 80vw;
     margin: 30vh auto;
     text-align: center;
@@ -47,12 +46,4 @@
 
   .main-text {
       color: #fff;
-  }
-
-  .password-form {
-    height: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    max-width: 80vw;
   }
